@@ -21,7 +21,7 @@ Click to view full size image
 <img src="https://github.com/MahdiRahmani/detect_the_marked_answer_sheet_options/blob/main/Q120.png" width="400"/>
 
 ## مقاله فارسی در ویرگول
-<a href="https://vrgl.ir/rtrPm" target="_blank">برای خواندن مقاله توضیحات بیشتر درباره این پروژه در ویرگول، کلیک کنید</a>
+<a href="https://vrgl.ir/rtrPm" target="blank">برای خواندن مقاله توضیحات بیشتر درباره این پروژه در ویرگول، کلیک کنید</a>
 
 ## Contact Me
 MahdiRahmani1375@gmail.com
