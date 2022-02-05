@@ -1,6 +1,8 @@
 # Detect The Marked Answer Sheet Options 
 In this project, using image processing techniques in Python, the marked options of the answer sheet are recognized.
 
+<img src="https://github.com/MahdiRahmani/detect_the_marked_answer_sheet_options/blob/main/poster.jpg" width="800"/>
+
 This project is optimized to detect answer sheets with the following difficult conditions:
 - 100% accuracy in detecting completely blackened or completely white options
 - 100% accuracy in detecting suspicious options
